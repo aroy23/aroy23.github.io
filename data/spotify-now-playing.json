@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-17T22:04:06.762Z"
+  "isPlaying": true,
+  "title": "Paparazzi",
+  "artist": "Lady Gaga",
+  "album": "The Fame",
+  "songUrl": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02613aaa3ae566d9f36008aed0",
+  "updatedAt": "2026-04-17T22:21:49.051Z"
 }
