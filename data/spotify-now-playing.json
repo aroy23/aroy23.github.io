@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Lost",
-  "artist": "Frank Ocean",
-  "album": "channel ORANGE",
-  "songUrl": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
-  "updatedAt": "2026-04-17T10:04:52.199Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-17T10:35:19.959Z"
 }
