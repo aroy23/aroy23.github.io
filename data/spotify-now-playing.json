@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Good Life",
-  "artist": "Kanye West, T-Pain",
-  "album": "Graduation",
-  "songUrl": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-  "updatedAt": "2026-04-17T18:58:02.896Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-17T19:29:35.907Z"
 }
