@@ -287,12 +287,17 @@ a:hover span {
 @media (max-width: 768px) {
     body {
         padding: 1.25rem;
-        align-items: flex-start;
+        align-items: center;
         justify-content: center;
     }
 
     .contact-info {
-        position: static;
+        position: fixed;
+        top: 1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        width: calc(100vw - 2.5rem);
+        text-align: center;
         font-size: 0.7rem;
         animation-delay: 0.2s;
     }
@@ -307,10 +312,23 @@ a:hover span {
 
     .container {
         width: 100%;
+        max-width: 320px;
         min-height: 100vh;
         justify-content: center;
-        padding: 7rem 0 3rem;
+        align-items: center;
+        padding: 6.5rem 0 3rem;
         box-sizing: border-box;
+    }
+
+    .social-links {
+        display: flex;
+        justify-content: center;
+        gap: 1.1rem;
+        flex-wrap: wrap;
+    }
+
+    .social-links a {
+        margin: 0;
     }
 
     .spotify-widget {
