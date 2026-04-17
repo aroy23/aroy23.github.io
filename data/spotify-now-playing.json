@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "TiK ToK",
-  "artist": "Kesha",
-  "album": "Animal (Expanded Edition)",
-  "songUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0297c7b770b28ffeed164f4d0e",
-  "updatedAt": "2026-04-17T23:20:57.904Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-17T23:38:25.463Z"
 }
