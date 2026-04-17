@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 href: defaultHref,
                 status: "Spotify idle",
                 track: "Nothing playing right now",
-                artist: "Check back in a minute."
+                artist: ""
             });
         } catch (error) {
             console.error(error);
