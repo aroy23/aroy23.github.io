@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-17T18:11:26.024Z"
+  "isPlaying": true,
+  "title": "Foreign",
+  "artist": "Playboi Carti",
+  "album": "Die Lit",
+  "songUrl": "https://open.spotify.com/track/500l6Cwe40hkPqS7Sf7ufY",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a1e867d40e7bb29ced5c0194",
+  "updatedAt": "2026-04-17T18:33:20.102Z"
 }
