@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-17T20:10:02.585Z"
+  "isPlaying": true,
+  "title": "Raindance (feat. Tems)",
+  "artist": "Dave, Tems",
+  "album": "The Boy Who Played the Harp",
+  "songUrl": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83",
+  "updatedAt": "2026-04-17T20:28:23.174Z"
 }
