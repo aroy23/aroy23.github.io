@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Sweater Weather",
-  "artist": "The Neighbourhood",
-  "album": "I Love You.",
-  "songUrl": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
-  "updatedAt": "2026-04-17T21:26:26.088Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-17T21:46:03.673Z"
 }
