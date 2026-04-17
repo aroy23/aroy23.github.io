@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arnav Roy</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script src="https://cdn.jsdelivr.net/npm/tsparticles-slim@2.12.0/tsparticles.slim.bundle.min.js"></script>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <div id="tsparticles"></div>
+    
+    <div class="contact-info">
+        <p>Email: <a href="mailto:arnavroy@ucla.edu">arnavroy[at]ucla[dot]edu</a></p>
+    </div>
+
+    <aside class="spotify-widget" aria-live="polite">
+        <a
+            id="spotify-card"
+            class="spotify-card spotify-card--idle"
+            href="https://open.spotify.com/"
+            target="_blank"
+            rel="noreferrer"
+        >
+            <img
+                id="spotify-cover"
+                class="spotify-cover"
+                alt=""
+                hidden
+            >
+            <div class="spotify-copy">
+                <div class="spotify-status-row">
+                    <span class="spotify-indicator" aria-hidden="true"></span>
+                    <span id="spotify-status">Checking Spotify</span>
+                </div>
+                <p id="spotify-track" class="spotify-track">Loading current track...</p>
+                <p id="spotify-artist" class="spotify-artist">This updates automatically.</p>
+            </div>
+        </a>
+    </aside>
+    
+    <div class="container">
+        <div class="title">
+            <p>Arnav Roy</p>
+        </div>
+        <div class="subtitle">
+            <p>UCLA Computer Science Student</p>
+        </div>
+        <div class="social-links">
+            <a href="https://github.com/aroy23/" data-replace="aroy23" target="_blank" rel="noreferrer">
+                <span>GitHub</span>
+            </a>
+            <a href="https://www.linkedin.com/in/arnavroy23/" data-replace="arnavroy23" target="_blank" rel="noreferrer">
+                <span>⠀LinkedIn⠀</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- External Script Files -->
+    <script src="scripts/particles.js"></script>
+    <script src="scripts/spotify-now-playing.js"></script>
+</body>
+</html>
