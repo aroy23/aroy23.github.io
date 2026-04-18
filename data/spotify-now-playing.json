@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-18T22:34:04.316Z"
+  "isPlaying": true,
+  "title": "Only Human",
+  "artist": "Jonas Brothers",
+  "album": "Happiness Begins",
+  "songUrl": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02de1a3a5eaa0c75bb18e7b597",
+  "updatedAt": "2026-04-18T22:53:19.441Z"
 }
