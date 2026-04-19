@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-19T21:21:30.521Z"
+  "isPlaying": true,
+  "title": "Karma Police",
+  "artist": "Radiohead",
+  "album": "OK Computer",
+  "songUrl": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+  "updatedAt": "2026-04-19T21:38:38.763Z"
 }
