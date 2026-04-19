@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-19T23:23:29.104Z"
+  "isPlaying": true,
+  "title": "You Broke My Heart",
+  "artist": "Drake",
+  "album": "For All The Dogs Scary Hours Edition",
+  "songUrl": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e286ee36b4015afa8832356a",
+  "updatedAt": "2026-04-19T23:41:26.230Z"
 }
