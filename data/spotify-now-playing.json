@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-19T18:25:14.202Z"
+  "isPlaying": true,
+  "title": "We R Who We R",
+  "artist": "Kesha",
+  "album": "Cannibal (Expanded Edition)",
+  "songUrl": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02d94f03f5cae0ba242a13178b",
+  "updatedAt": "2026-04-19T18:45:13.630Z"
 }
