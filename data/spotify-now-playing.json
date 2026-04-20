@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "The One That Got Away",
-  "artist": "Katy Perry",
-  "album": "Teenage Dream",
-  "songUrl": "https://open.spotify.com/track/6GCW5Muk3u0cM5QTkS4C9a",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0243219fb4e2c45a0b7df6ef87",
-  "updatedAt": "2026-04-20T01:57:24.489Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-20T03:11:50.069Z"
 }
