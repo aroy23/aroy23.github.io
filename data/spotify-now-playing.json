@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-20T22:26:59.138Z"
+  "isPlaying": true,
+  "title": "Acquainted",
+  "artist": "The Weeknd",
+  "album": "Beauty Behind The Madness",
+  "songUrl": "https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027fcead687e99583072cc217b",
+  "updatedAt": "2026-04-20T22:47:04.999Z"
 }
