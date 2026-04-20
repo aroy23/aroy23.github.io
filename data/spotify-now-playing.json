@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Go Away",
-  "artist": "Weezer, Best Coast",
-  "album": "Everything Will Be Alright In The End",
-  "songUrl": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e7d13eb0e3c1032e4f8dfc93",
-  "updatedAt": "2026-04-20T07:06:40.785Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-20T07:49:11.018Z"
 }
