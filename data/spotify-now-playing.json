@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "SIRENS",
-  "artist": "Travis Scott",
-  "album": "UTOPIA",
-  "songUrl": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0204481c826dd292e5e4983b3f",
-  "updatedAt": "2026-04-20T21:06:21.711Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-20T21:28:04.485Z"
 }
