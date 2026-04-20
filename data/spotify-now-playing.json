@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Somebody Told Me",
-  "artist": "The Killers",
-  "album": "Hot Fuss",
-  "songUrl": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
-  "updatedAt": "2026-04-20T18:56:26.471Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-20T19:27:05.271Z"
 }
