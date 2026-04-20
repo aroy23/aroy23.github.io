@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-20T16:43:37.738Z"
+  "isPlaying": true,
+  "title": "Instant Crush (feat. Julian Casablancas)",
+  "artist": "Daft Punk, Julian Casablancas",
+  "album": "Random Access Memories",
+  "songUrl": "https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+  "updatedAt": "2026-04-20T17:11:32.549Z"
 }
