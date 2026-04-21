@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-21T21:09:09.420Z"
+  "isPlaying": true,
+  "title": "STYLE",
+  "artist": "Hearts2Hearts",
+  "album": "STYLE",
+  "songUrl": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02610f16f9c84e85158baa0384",
+  "updatedAt": "2026-04-21T21:29:20.832Z"
 }
