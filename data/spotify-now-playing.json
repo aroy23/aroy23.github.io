@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-21T19:40:03.497Z"
+  "isPlaying": true,
+  "title": "Alors on danse - Radio Edit",
+  "artist": "Stromae",
+  "album": "Cheese",
+  "songUrl": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402",
+  "updatedAt": "2026-04-21T20:06:04.295Z"
 }
