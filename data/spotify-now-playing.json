@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-22T02:41:40.635Z"
+  "isPlaying": true,
+  "title": "Superman (Taylor’s Version)",
+  "artist": "Taylor Swift",
+  "album": "Speak Now (Taylor's Version)",
+  "songUrl": "https://open.spotify.com/track/4evLyY5Ue1Wesc61t2KXAU",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481",
+  "updatedAt": "2026-04-22T03:50:53.252Z"
 }
