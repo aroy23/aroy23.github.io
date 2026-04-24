@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-24T21:24:05.604Z"
+  "isPlaying": true,
+  "title": "Love Me Harder",
+  "artist": "Ariana Grande, The Weeknd",
+  "album": "My Everything (Deluxe)",
+  "songUrl": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa",
+  "updatedAt": "2026-04-24T21:43:32.950Z"
 }
