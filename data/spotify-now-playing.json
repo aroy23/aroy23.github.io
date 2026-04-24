@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Don't Stop The Music",
-  "artist": "Rihanna",
-  "album": "Good Girl Gone Bad",
-  "songUrl": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02b9ff0a5f40d3406aed5e5e3b",
-  "updatedAt": "2026-04-24T22:24:24.254Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-24T22:42:48.951Z"
 }
