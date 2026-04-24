@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-24T19:57:00.151Z"
+  "isPlaying": true,
+  "title": "Amoeba",
+  "artist": "Clairo",
+  "album": "Sling",
+  "songUrl": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022624442cf48e4962d1422da8",
+  "updatedAt": "2026-04-24T20:18:30.789Z"
 }
