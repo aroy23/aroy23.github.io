@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Somebody That I Used To Know",
-  "artist": "Gotye, Kimbra",
-  "album": "Making Mirrors",
-  "songUrl": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e1d47c00ddecbfb810c807ed",
-  "updatedAt": "2026-04-24T08:04:19.852Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-24T08:52:43.847Z"
 }
