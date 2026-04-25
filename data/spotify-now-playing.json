@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "LVL",
-  "artist": "A$AP Rocky",
-  "album": "LONG.LIVE.A$AP (Deluxe Version)",
-  "songUrl": "https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9",
-  "updatedAt": "2026-04-25T06:42:46.800Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-25T07:11:47.603Z"
 }
