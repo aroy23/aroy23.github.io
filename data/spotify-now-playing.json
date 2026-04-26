@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-26T20:40:44.621Z"
+  "isPlaying": true,
+  "title": "Love You Like A Love Song",
+  "artist": "Selena Gomez & The Scene",
+  "album": "When The Sun Goes Down",
+  "songUrl": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e021c8193de8d62b2ffa49a09db",
+  "updatedAt": "2026-04-26T20:58:50.750Z"
 }
