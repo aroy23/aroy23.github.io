@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-26T21:53:22.074Z"
+  "isPlaying": true,
+  "title": "Prices",
+  "artist": "Lil Uzi Vert, WanMor",
+  "album": "Eternal Atake",
+  "songUrl": "https://open.spotify.com/track/4YcWzLSnGqLjSCycuSMHnn",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025267529d83ab73cf102fcbbd",
+  "updatedAt": "2026-04-26T22:06:56.013Z"
 }
