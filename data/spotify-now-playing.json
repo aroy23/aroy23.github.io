@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-27T20:43:03.295Z"
+  "isPlaying": true,
+  "title": "Bad Habit",
+  "artist": "Steve Lacy",
+  "album": "Gemini Rights",
+  "songUrl": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026938311000a0e494a26986e5",
+  "updatedAt": "2026-04-27T21:10:23.145Z"
 }
