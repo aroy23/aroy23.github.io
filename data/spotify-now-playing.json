@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-28T06:32:07.829Z"
+  "isPlaying": true,
+  "title": "One More Hour",
+  "artist": "Tame Impala",
+  "album": "The Slow Rush",
+  "songUrl": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+  "updatedAt": "2026-04-28T07:26:59.727Z"
 }
