@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Some",
-  "artist": "Steve Lacy",
-  "album": "Some",
-  "songUrl": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027c0c6c1cfac7464b6211587d",
-  "updatedAt": "2026-04-28T23:19:08.150Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-04-28T23:40:35.781Z"
 }
