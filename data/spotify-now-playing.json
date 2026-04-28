@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-28T04:20:52.693Z"
+  "isPlaying": true,
+  "title": "Always Forever",
+  "artist": "Cults",
+  "album": "Static",
+  "songUrl": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02b03096e45464122b278aef93",
+  "updatedAt": "2026-04-28T05:36:56.910Z"
 }
