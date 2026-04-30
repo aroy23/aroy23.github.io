@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-04-30T18:03:42.849Z"
+  "isPlaying": true,
+  "title": "Lemonade (feat. NAV)",
+  "artist": "Internet Money, Gunna, Don Toliver, NAV",
+  "album": "B4 The Storm",
+  "songUrl": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02c4adc981dc6656e52c916088",
+  "updatedAt": "2026-04-30T18:42:43.482Z"
 }
