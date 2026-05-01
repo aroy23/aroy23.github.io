@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-01T23:01:50.349Z"
+  "isPlaying": true,
+  "title": "Mice City",
+  "artist": "Hotel Ugly",
+  "album": "Mice City",
+  "songUrl": "https://open.spotify.com/track/1YkI4EAlpLsHUmWWGdh6b6",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02dd36a2682b5654c23d306a3c",
+  "updatedAt": "2026-05-01T23:25:25.507Z"
 }
