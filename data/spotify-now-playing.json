@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Disco",
-  "artist": "Surf Curse",
-  "album": "Disco",
-  "songUrl": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a7060ab3ca5dc05fc9552e66",
-  "updatedAt": "2026-05-01T22:39:01.782Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-01T23:01:50.349Z"
 }
