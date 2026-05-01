@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-01T07:38:08.244Z"
+  "isPlaying": true,
+  "title": "The Party & The After Party",
+  "artist": "The Weeknd",
+  "album": "House Of Balloons (Original)",
+  "songUrl": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02274b406a7e18acebcf743079",
+  "updatedAt": "2026-05-01T08:25:33.266Z"
 }
