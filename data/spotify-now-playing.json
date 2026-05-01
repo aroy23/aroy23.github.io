@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Restless",
-  "artist": "untitled",
-  "album": "Restless",
-  "songUrl": "https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02c06bfd4e6bb9c984fa588f4b",
-  "updatedAt": "2026-05-01T03:19:02.689Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-01T04:40:34.230Z"
 }
