@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Birch Tree",
-  "artist": "Strawberry Guy",
-  "album": "Taking My Time to Be",
-  "songUrl": "https://open.spotify.com/track/2isf9DCebk6mUhGagcD5bf",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026ad1cdd4785d829027fa61ba",
-  "updatedAt": "2026-05-01T21:57:05.081Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-01T22:20:07.039Z"
 }
