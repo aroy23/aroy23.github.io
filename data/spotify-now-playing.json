@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-02T21:20:34.628Z"
+  "isPlaying": true,
+  "title": "Devil In A New Dress",
+  "artist": "Kanye West, Rick Ross",
+  "album": "My Beautiful Dark Twisted Fantasy",
+  "songUrl": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f",
+  "updatedAt": "2026-05-02T21:38:05.808Z"
 }
