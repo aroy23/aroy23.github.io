@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Stargazing",
-  "artist": "The Neighbourhood",
-  "album": "Chip Chrome & The Mono-Tones (Deluxe)",
-  "songUrl": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0236a7b44e8382e6165c235dac",
-  "updatedAt": "2026-05-02T07:14:40.224Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-02T07:56:29.905Z"
 }
