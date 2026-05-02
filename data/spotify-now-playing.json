@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-02T05:56:19.627Z"
+  "isPlaying": true,
+  "title": "Hello",
+  "artist": "OMFG",
+  "album": "Hello",
+  "songUrl": "https://open.spotify.com/track/7Gt77V28VdZ4WV0ZQZ1g0D",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02380bd1e1da96ec80cbc723aa",
+  "updatedAt": "2026-05-02T06:41:01.653Z"
 }
