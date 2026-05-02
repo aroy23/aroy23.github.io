@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-02T20:38:25.203Z"
+  "isPlaying": true,
+  "title": "Ghost Town",
+  "artist": "Kanye West, PARTYNEXTDOOR",
+  "album": "ye",
+  "songUrl": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+  "updatedAt": "2026-05-02T20:58:23.818Z"
 }
