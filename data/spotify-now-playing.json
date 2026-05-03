@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-03T22:39:24.213Z"
+  "isPlaying": true,
+  "title": "Ode To The Mets",
+  "artist": "The Strokes",
+  "album": "The New Abnormal",
+  "songUrl": "https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+  "updatedAt": "2026-05-03T23:00:57.079Z"
 }
