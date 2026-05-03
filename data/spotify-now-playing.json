@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-03T20:39:56.036Z"
+  "isPlaying": true,
+  "title": "YSL (feat. Playboi Carti)",
+  "artist": "Gunna, Playboi Carti",
+  "album": "Drip Season 2",
+  "songUrl": "https://open.spotify.com/track/6DXUcykWTq6sRARrOAE2Lc",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026044468512bc34531d9832a5",
+  "updatedAt": "2026-05-03T21:00:35.042Z"
 }
