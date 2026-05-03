@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-03T20:01:32.975Z"
+  "isPlaying": true,
+  "title": "Clocks",
+  "artist": "Coldplay",
+  "album": "A Rush of Blood to the Head",
+  "songUrl": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82",
+  "updatedAt": "2026-05-03T20:21:45.445Z"
 }
