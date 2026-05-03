@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-03T03:11:23.952Z"
+  "isPlaying": true,
+  "title": "Walking On A Dream",
+  "artist": "Empire Of The Sun",
+  "album": "Walking On A Dream (10th Anniversary Edition)",
+  "songUrl": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f3aa0e6ca22a382007f61e4d",
+  "updatedAt": "2026-05-03T04:32:19.542Z"
 }
