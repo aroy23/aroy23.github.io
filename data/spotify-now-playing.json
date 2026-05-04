@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "I Kissed A Girl",
-  "artist": "Katy Perry",
-  "album": "One Of The Boys",
-  "songUrl": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02cd3978ebe35d93a07249b97f",
-  "updatedAt": "2026-05-04T21:58:21.968Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-04T22:27:34.965Z"
 }
