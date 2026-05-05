@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-05T22:37:34.528Z"
+  "isPlaying": true,
+  "title": "Lady Of Namek",
+  "artist": "Tory Lanez",
+  "album": "Alone At Prom",
+  "songUrl": "https://open.spotify.com/track/6ieWL5CLN9WdC875guWtMe",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
+  "updatedAt": "2026-05-05T23:01:56.287Z"
 }
