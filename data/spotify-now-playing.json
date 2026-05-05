@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "In My Room",
-  "artist": "Frank Ocean",
-  "album": "In My Room",
-  "songUrl": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02db974f9533dd9b362891b5db",
-  "updatedAt": "2026-05-05T18:54:10.727Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-05T19:27:48.220Z"
 }
