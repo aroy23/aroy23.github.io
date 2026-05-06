@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Black Beatles",
-  "artist": "Rae Sremmurd, Gucci Mane",
-  "album": "SremmLife 2 (Deluxe)",
-  "songUrl": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02881fb62d913fe712fc2e1c95",
-  "updatedAt": "2026-05-06T05:17:53.185Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-06T06:17:52.266Z"
 }
