@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Sanguine Paradise",
-  "artist": "Lil Uzi Vert",
-  "album": "Sanguine Paradise",
-  "songUrl": "https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0234bf16d92ae11f8d3eadf295",
-  "updatedAt": "2026-05-07T14:43:27.503Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-07T15:35:42.845Z"
 }
