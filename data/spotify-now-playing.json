@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Don't Play That",
-  "artist": "King Von, 21 Savage",
-  "album": "What It Means To Be King",
-  "songUrl": "https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f190674d6e343416189f2596",
-  "updatedAt": "2026-05-07T18:55:53.494Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-07T19:32:12.391Z"
 }
