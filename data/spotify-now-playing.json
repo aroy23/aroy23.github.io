@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-07T21:51:42.003Z"
+  "isPlaying": true,
+  "title": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+  "artist": "A$AP Rocky, Rod Stewart, Miguel, Mark Ronson",
+  "album": "AT.LONG.LAST.A$AP",
+  "songUrl": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0249efdc44d0733042f8b99d57",
+  "updatedAt": "2026-05-07T22:16:53.922Z"
 }
