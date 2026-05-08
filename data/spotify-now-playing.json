@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-08T21:30:30.546Z"
+  "isPlaying": true,
+  "title": "novocaine",
+  "artist": "GenriX, CORBAL, Shiloh Dynasty",
+  "album": "unfortunately yours,",
+  "songUrl": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0214e21b4fc24f2b3cae15ef93",
+  "updatedAt": "2026-05-08T21:54:00.765Z"
 }
