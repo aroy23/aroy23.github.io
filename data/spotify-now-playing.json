@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-08T05:54:59.837Z"
+  "isPlaying": true,
+  "title": "What Did I Miss?",
+  "artist": "Drake",
+  "album": "What Did I Miss?",
+  "songUrl": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
+  "updatedAt": "2026-05-08T06:31:17.362Z"
 }
