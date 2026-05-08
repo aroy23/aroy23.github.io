@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-08T22:15:57.829Z"
+  "isPlaying": true,
+  "title": "Novacaine",
+  "artist": "Loyalenemyx, Shiloh Dynasty",
+  "album": "Novacaine",
+  "songUrl": "https://open.spotify.com/track/7wB5rI4uxRfSMHvRyHiFzB",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02545db8ab54c5f07406896ede",
+  "updatedAt": "2026-05-08T22:37:53.549Z"
 }
