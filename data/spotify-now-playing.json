@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-08T07:07:24.264Z"
+  "isPlaying": true,
+  "title": "90210 (feat. Kacy Hill)",
+  "artist": "Travis Scott, Kacy Hill",
+  "album": "Rodeo",
+  "songUrl": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02d3b5affd8824b4ed301b7137",
+  "updatedAt": "2026-05-08T07:47:20.185Z"
 }
