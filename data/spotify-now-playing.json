@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-08T19:45:48.573Z"
+  "isPlaying": true,
+  "title": "Thank You",
+  "artist": "Dido",
+  "album": "No Angel",
+  "songUrl": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02154e484a27eb2e2ec17a6dfe",
+  "updatedAt": "2026-05-08T20:13:12.868Z"
 }
