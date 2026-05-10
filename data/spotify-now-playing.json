@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-10T18:03:48.405Z"
+  "isPlaying": true,
+  "title": "Sunset",
+  "artist": "LUCKI",
+  "album": "Sunset",
+  "songUrl": "https://open.spotify.com/track/0zXnqruuTKhV7dTmbaO52L",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028afe05439fd7b3d4a6b79bb9",
+  "updatedAt": "2026-05-10T18:30:35.745Z"
 }
