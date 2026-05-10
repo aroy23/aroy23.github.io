@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-10T21:06:53.669Z"
+  "isPlaying": true,
+  "title": "Same Old Love",
+  "artist": "Selena Gomez",
+  "album": "Revival (Deluxe)",
+  "songUrl": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e6f5ed9a9059f686965ba90a",
+  "updatedAt": "2026-05-10T21:28:48.667Z"
 }
