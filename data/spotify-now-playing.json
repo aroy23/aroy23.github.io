@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Afterthought",
-  "artist": "Tame Impala",
-  "album": "Deadbeat",
-  "songUrl": "https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02208500450dcd0fd294d7bd3b",
-  "updatedAt": "2026-05-10T20:05:37.192Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-10T20:25:25.046Z"
 }
