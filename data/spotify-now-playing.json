@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "All Falls Down",
-  "artist": "Kanye West, Syleena Johnson",
-  "album": "The College Dropout",
-  "songUrl": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78",
-  "updatedAt": "2026-05-11T18:00:05.697Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-11T18:48:42.792Z"
 }
