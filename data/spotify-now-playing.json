@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Over",
-  "artist": "Drake",
-  "album": "Thank Me Later",
-  "songUrl": "https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0211b21e8b868800918d21bb77",
-  "updatedAt": "2026-05-11T21:13:41.242Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-11T21:45:37.398Z"
 }
