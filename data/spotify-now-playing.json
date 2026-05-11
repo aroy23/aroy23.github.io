@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-11T16:24:49.693Z"
+  "isPlaying": true,
+  "title": "Passionfruit",
+  "artist": "Drake",
+  "album": "More Life",
+  "songUrl": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+  "updatedAt": "2026-05-11T17:16:26.225Z"
 }
