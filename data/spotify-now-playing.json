@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-12T05:30:53.230Z"
+  "isPlaying": true,
+  "title": "Plastic Love",
+  "artist": "Mariya Takeuchi",
+  "album": "Expressions",
+  "songUrl": "https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ba6b3322182afc4136521d2c",
+  "updatedAt": "2026-05-12T06:29:03.960Z"
 }
