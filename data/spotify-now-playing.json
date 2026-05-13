@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-13T05:50:50.671Z"
+  "isPlaying": true,
+  "title": "Closer",
+  "artist": "The Chainsmokers, Halsey",
+  "album": "Closer",
+  "songUrl": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02495ce6da9aeb159e94eaa453",
+  "updatedAt": "2026-05-13T06:52:05.049Z"
 }
