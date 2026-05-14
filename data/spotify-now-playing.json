@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "My Ordinary Life",
-  "artist": "The Living Tombstone",
-  "album": "My Ordinary Life",
-  "songUrl": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02227edcd51b6622cdcbe9f43c",
-  "updatedAt": "2026-05-14T08:32:10.569Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-14T09:27:00.995Z"
 }
