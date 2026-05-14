@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Trap Queen",
-  "artist": "Fetty Wap",
-  "album": "Fetty Wap (Deluxe)",
-  "songUrl": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02df7c1e1c441dd172ea8f29f9",
-  "updatedAt": "2026-05-14T21:47:50.019Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-14T22:17:12.890Z"
 }
