@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "NEW DROP",
-  "artist": "Don Toliver",
-  "album": "HARDSTONE PSYCHO",
-  "songUrl": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02b5050e0d58c704da6bb519e1",
-  "updatedAt": "2026-05-14T19:43:13.449Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-14T20:19:05.102Z"
 }
