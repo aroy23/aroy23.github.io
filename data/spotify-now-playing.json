@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-17T21:56:12.121Z"
+  "isPlaying": true,
+  "title": "American Boy",
+  "artist": "Estelle, Kanye West",
+  "album": "Shine",
+  "songUrl": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0298dc3e242a818007dd67b7c5",
+  "updatedAt": "2026-05-17T22:18:33.551Z"
 }
