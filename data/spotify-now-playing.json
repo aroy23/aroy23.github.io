@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-17T22:39:01.368Z"
+  "isPlaying": true,
+  "title": "Wolves",
+  "artist": "Kanye West",
+  "album": "The Life Of Pablo",
+  "songUrl": "https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+  "updatedAt": "2026-05-17T23:02:52.416Z"
 }
