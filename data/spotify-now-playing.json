@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-17T18:45:17.368Z"
+  "isPlaying": true,
+  "title": "Slow Down",
+  "artist": "LUCKI",
+  "album": "Body High",
+  "songUrl": "https://open.spotify.com/track/5PJQAI7y5qxxPe04Vp3b3H",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a1fa9b228a2c84e1f3f0e2d0",
+  "updatedAt": "2026-05-17T19:14:03.150Z"
 }
