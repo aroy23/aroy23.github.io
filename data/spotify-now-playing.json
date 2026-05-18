@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-18T20:16:02.057Z"
+  "isPlaying": true,
+  "title": "Maria",
+  "artist": "Justin Bieber",
+  "album": "Believe (Deluxe Edition)",
+  "songUrl": "https://open.spotify.com/track/7E1dQbOk1qcx9gEPUMBKsk",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026c20c4638a558132ba95bc39",
+  "updatedAt": "2026-05-18T20:49:34.957Z"
 }
