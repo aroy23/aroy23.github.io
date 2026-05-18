@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Rich Flex",
-  "artist": "Drake, 21 Savage",
-  "album": "Her Loss",
-  "songUrl": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
-  "updatedAt": "2026-05-18T06:22:42.389Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-18T07:48:06.110Z"
 }
