@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-17T23:49:35.235Z"
+  "isPlaying": true,
+  "title": "Nice For What",
+  "artist": "Drake",
+  "album": "Scorpion",
+  "songUrl": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+  "updatedAt": "2026-05-18T00:12:00.048Z"
 }
