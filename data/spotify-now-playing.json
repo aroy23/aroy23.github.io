@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-20T07:35:20.063Z"
+  "isPlaying": true,
+  "title": "Just Give Me One More Day",
+  "artist": "Alejandro Vargas, Alej",
+  "album": "Just Give Me One More Day",
+  "songUrl": "https://open.spotify.com/track/4H8zLQgVOWDISkdFLllj25",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e8332e3fb55e649c23ec4bdb",
+  "updatedAt": "2026-05-20T08:41:34.492Z"
 }
