@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Marry You",
-  "artist": "Bruno Mars",
-  "album": "Doo-Wops & Hooligans",
-  "songUrl": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027039c1c841fc3dfa2ad8a0d8",
-  "updatedAt": "2026-05-21T08:47:45.026Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-21T10:06:27.889Z"
 }
