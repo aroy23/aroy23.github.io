@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-23T06:44:22.587Z"
+  "isPlaying": true,
+  "title": "Sad Girl",
+  "artist": "Lana Del Rey",
+  "album": "Ultraviolence (Deluxe)",
+  "songUrl": "https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e021624590458126fc8b8c64c2f",
+  "updatedAt": "2026-05-23T07:38:52.289Z"
 }
