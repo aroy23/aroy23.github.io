@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Apple Cider",
-  "artist": "beabadoobee",
-  "album": "Loveworm",
-  "songUrl": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ceca3ef39ab8f9b59acff394",
-  "updatedAt": "2026-05-24T20:08:30.625Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-24T20:32:00.848Z"
 }
