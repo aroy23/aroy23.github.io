@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-24T22:49:52.013Z"
+  "isPlaying": true,
+  "title": "Hurt You",
+  "artist": "The Weeknd, Gesaffelstein",
+  "album": "My Dear Melancholy,",
+  "songUrl": "https://open.spotify.com/track/6QdnKD1zwEgyOWtkrdzlOF",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e021f6a2a40bb692936879db730",
+  "updatedAt": "2026-05-24T23:14:20.704Z"
 }
