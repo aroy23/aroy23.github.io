@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "TBH",
-  "artist": "PARTYNEXTDOOR",
-  "album": "PARTYNEXTDOOR",
-  "songUrl": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025adf49e4d5f1eb30646a2adf",
-  "updatedAt": "2026-05-25T21:44:07.120Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-25T22:11:48.699Z"
 }
