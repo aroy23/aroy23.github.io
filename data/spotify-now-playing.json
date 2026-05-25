@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Right Now (feat. Pi'erre Bourne)",
-  "artist": "Playboi Carti, Pi’erre Bourne",
-  "album": "Die Lit",
-  "songUrl": "https://open.spotify.com/track/475jSz0H6U3duJyNiDS0tT",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a1e867d40e7bb29ced5c0194",
-  "updatedAt": "2026-05-25T08:07:25.082Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-25T09:36:04.704Z"
 }
