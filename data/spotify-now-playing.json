@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Kingston",
-  "artist": "Faye Webster",
-  "album": "Atlanta Millionaires Club",
-  "songUrl": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ac4ebd092fa2cf210e4c8023",
-  "updatedAt": "2026-05-26T19:48:49.013Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-26T20:32:04.307Z"
 }
