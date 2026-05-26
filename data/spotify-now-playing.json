@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Make Them Pay",
-  "artist": "Drake",
-  "album": "ICEMAN",
-  "songUrl": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
-  "updatedAt": "2026-05-26T18:11:58.164Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-26T19:05:36.596Z"
 }
