@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-27T22:56:10.138Z"
+  "isPlaying": true,
+  "title": "FlatBed Freestyle",
+  "artist": "Playboi Carti",
+  "album": "Die Lit",
+  "songUrl": "https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a1e867d40e7bb29ced5c0194",
+  "updatedAt": "2026-05-27T23:28:29.706Z"
 }
