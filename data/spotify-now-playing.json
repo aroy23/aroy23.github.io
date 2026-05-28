@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-28T17:57:47.650Z"
+  "isPlaying": true,
+  "title": "Long Time - Intro",
+  "artist": "Playboi Carti",
+  "album": "Die Lit",
+  "songUrl": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a1e867d40e7bb29ced5c0194",
+  "updatedAt": "2026-05-28T19:00:38.581Z"
 }
