@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-28T01:14:30.854Z"
+  "isPlaying": true,
+  "title": "Kelly K",
+  "artist": "Playboi Carti",
+  "album": "Playboi Carti",
+  "songUrl": "https://open.spotify.com/track/3hDp5jRxvtD31giFGUaE1x",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e31a279d267f3b3d8912e6f1",
+  "updatedAt": "2026-05-28T02:00:36.982Z"
 }
