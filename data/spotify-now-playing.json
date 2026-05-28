@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "The Glory",
-  "artist": "Kanye West",
-  "album": "Graduation",
-  "songUrl": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-  "updatedAt": "2026-05-28T03:24:06.800Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-28T04:53:43.825Z"
 }
