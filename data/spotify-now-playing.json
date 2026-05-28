@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Compass",
-  "artist": "The Neighbourhood",
-  "album": "Hard To Imagine The Neighbourhood Ever Changing",
-  "songUrl": "https://open.spotify.com/track/0YNtAadZvKBBEFARtfoCV8",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029b6ac98a52f62d5cb473da40",
-  "updatedAt": "2026-05-28T22:45:47.503Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-28T23:15:33.692Z"
 }
