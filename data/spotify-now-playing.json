@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "What You Know",
-  "artist": "Two Door Cinema Club",
-  "album": "Tourist History",
-  "songUrl": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02585f3d70dce678a5978a0941",
-  "updatedAt": "2026-05-28T23:46:59.026Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-05-29T00:15:52.225Z"
 }
