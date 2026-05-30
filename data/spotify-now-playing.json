@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-05-30T22:28:18.578Z"
+  "isPlaying": true,
+  "title": "Can I Call You Tonight?",
+  "artist": "Dayglow",
+  "album": "Fuzzybrain",
+  "songUrl": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025160eaecb31b739ea1c2eaa5",
+  "updatedAt": "2026-05-30T22:50:45.703Z"
 }
