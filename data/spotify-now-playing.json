@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-01T22:37:34.949Z"
+  "isPlaying": true,
+  "title": "Only Girl (In The World)",
+  "artist": "Rihanna",
+  "album": "Loud",
+  "songUrl": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794",
+  "updatedAt": "2026-06-01T23:14:28.493Z"
 }
