@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "This Is What You Came For",
-  "artist": "Calvin Harris, Rihanna",
-  "album": "This Is What You Came For",
-  "songUrl": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022b0b6b4b5f493dbccacd0de4",
-  "updatedAt": "2026-06-01T23:46:35.304Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-02T00:16:10.622Z"
 }
