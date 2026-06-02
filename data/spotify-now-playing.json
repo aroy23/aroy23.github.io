@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-02T05:18:51.445Z"
+  "isPlaying": true,
+  "title": "Chamber Of Reflection",
+  "artist": "Mac DeMarco",
+  "album": "Salad Days",
+  "songUrl": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ec6e9c13eeed14eedbd5f7c9",
+  "updatedAt": "2026-06-02T06:57:37.669Z"
 }
