@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "My Way",
-  "artist": "Calvin Harris",
-  "album": "96 Months",
-  "songUrl": "https://open.spotify.com/track/3ejfcz0QPyV717Vd3ta04V",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028daa8ac6367fc997c1873b9b",
-  "updatedAt": "2026-06-03T08:50:38.959Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-03T10:26:06.209Z"
 }
