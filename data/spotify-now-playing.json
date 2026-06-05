@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Paranoia",
-  "artist": "The Marías",
-  "album": "Submarine",
-  "songUrl": "https://open.spotify.com/track/4gtIYSYu8u2ItBqrhCaChL",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028aa339341a0b0c813909c831",
-  "updatedAt": "2026-06-05T07:56:54.494Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-05T09:13:07.676Z"
 }
