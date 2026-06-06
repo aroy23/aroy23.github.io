@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-05T23:48:32.326Z"
+  "isPlaying": true,
+  "title": "Don't Take the Night Away",
+  "artist": "Chris Rainbow",
+  "album": "White Trails (Expanded)",
+  "songUrl": "https://open.spotify.com/track/6NKdgzbc4saTTaO0DkPAkJ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f96aee01fdb9a8d00db869c5",
+  "updatedAt": "2026-06-06T00:16:23.944Z"
 }
