@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-07T19:52:47.611Z"
+  "isPlaying": true,
+  "title": "A.D.H.D",
+  "artist": "Kendrick Lamar",
+  "album": "Section.80",
+  "songUrl": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02eddb2639b74ac6c202032ebe",
+  "updatedAt": "2026-06-07T20:22:01.779Z"
 }
