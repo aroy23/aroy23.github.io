@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-07T21:20:01.897Z"
+  "isPlaying": true,
+  "title": "Flawless",
+  "artist": "The Neighbourhood",
+  "album": "I Love You.",
+  "songUrl": "https://open.spotify.com/track/2Kt1XplPBQBsDKQDa6TssB",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
+  "updatedAt": "2026-06-07T21:47:48.898Z"
 }
