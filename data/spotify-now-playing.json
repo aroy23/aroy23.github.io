@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-08T03:25:21.603Z"
+  "isPlaying": true,
+  "title": "Moonlight",
+  "artist": "XXXTENTACION",
+  "album": "?",
+  "songUrl": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02806c160566580d6335d1f16c",
+  "updatedAt": "2026-06-08T05:04:29.000Z"
 }
