@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Hey There Delilah",
-  "artist": "Plain White T's",
-  "album": "All That We Needed",
-  "songUrl": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02beae6e69d6505fd379ef3081",
-  "updatedAt": "2026-06-09T22:51:24.439Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-09T23:22:25.623Z"
 }
