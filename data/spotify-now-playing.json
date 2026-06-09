@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-09T19:32:10.188Z"
+  "isPlaying": true,
+  "title": "Ain't It Fun",
+  "artist": "Paramore",
+  "album": "Paramore",
+  "songUrl": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02532033d0d90736f661c13d35",
+  "updatedAt": "2026-06-09T20:19:57.199Z"
 }
