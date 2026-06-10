@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "SOMETHING ABOUT YOU",
-  "artist": "PARTYNEXTDOOR, Drake",
-  "album": "$ome $exy $ongs 4 U",
-  "songUrl": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
-  "updatedAt": "2026-06-10T06:39:57.376Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-10T08:06:54.271Z"
 }
