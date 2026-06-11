@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-11T15:26:24.225Z"
+  "isPlaying": true,
+  "title": "Armed And Dangerous",
+  "artist": "Juice WRLD",
+  "album": "Goodbye & Good Riddance",
+  "songUrl": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+  "updatedAt": "2026-06-11T16:47:41.108Z"
 }
