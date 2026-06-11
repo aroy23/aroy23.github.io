@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-11T19:51:53.653Z"
+  "isPlaying": true,
+  "title": "Over the Moon",
+  "artist": "The Marías",
+  "album": "Superclean, Vol. II",
+  "songUrl": "https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a64b06c0eb30ce15c3e6edc1",
+  "updatedAt": "2026-06-11T20:41:11.839Z"
 }
