@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-11T05:09:09.655Z"
+  "isPlaying": true,
+  "title": "Get With U",
+  "artist": "Clairo",
+  "album": "Get With U",
+  "songUrl": "https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028d3099da3437c4b3f43e6239",
+  "updatedAt": "2026-06-11T06:50:21.043Z"
 }
