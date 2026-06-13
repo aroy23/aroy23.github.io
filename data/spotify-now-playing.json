@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-13T19:59:43.628Z"
+  "isPlaying": true,
+  "title": "Used To",
+  "artist": "Juice WRLD",
+  "album": "Goodbye & Good Riddance",
+  "songUrl": "https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+  "updatedAt": "2026-06-13T20:37:05.561Z"
 }
