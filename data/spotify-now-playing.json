@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-14T21:20:58.673Z"
+  "isPlaying": true,
+  "title": "Cinnamon Girl",
+  "artist": "Lana Del Rey",
+  "album": "Norman Fucking Rockwell!",
+  "songUrl": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02879e9318cb9f4e05ee552ac9",
+  "updatedAt": "2026-06-14T21:52:01.393Z"
 }
