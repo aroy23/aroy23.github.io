@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "No Choice",
-  "artist": "Tame Impala",
-  "album": "The Slow Rush B-Sides & Remixes",
-  "songUrl": "https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0222b9cdd0c4ce8cee5857f6a4",
-  "updatedAt": "2026-06-14T23:16:12.784Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-14T23:45:54.665Z"
 }
