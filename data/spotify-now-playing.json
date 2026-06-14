@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Stressed Out",
-  "artist": "Twenty One Pilots",
-  "album": "Blurryface",
-  "songUrl": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022df0d98a423025032d0db1f7",
-  "updatedAt": "2026-06-14T22:19:56.475Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-14T22:47:23.063Z"
 }
