@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "You Found Me",
-  "artist": "The Fray",
-  "album": "The Fray",
-  "songUrl": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0292b32435efed601fc8f1045d",
-  "updatedAt": "2026-06-14T18:42:39.316Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-14T19:11:52.358Z"
 }
