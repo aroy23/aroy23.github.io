@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-15T00:15:03.648Z"
+  "isPlaying": true,
+  "title": "Heartbeat",
+  "artist": "Childish Gambino",
+  "album": "Camp",
+  "songUrl": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026182cfe2e2a090d125c81dc0",
+  "updatedAt": "2026-06-15T01:31:45.976Z"
 }
