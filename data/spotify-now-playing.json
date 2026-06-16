@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-16T02:26:29.763Z"
+  "isPlaying": true,
+  "title": "What Do You Mean?",
+  "artist": "Justin Bieber",
+  "album": "Purpose (Deluxe)",
+  "songUrl": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+  "updatedAt": "2026-06-16T03:46:50.605Z"
 }
