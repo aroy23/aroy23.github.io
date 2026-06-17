@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-17T01:26:07.817Z"
+  "isPlaying": true,
+  "title": "A Lonely Night",
+  "artist": "The Weeknd",
+  "album": "Starboy",
+  "songUrl": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a048415db06a5b6fa7ec4e1a",
+  "updatedAt": "2026-06-17T02:20:05.455Z"
 }
