@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "N95",
-  "artist": "Kendrick Lamar",
-  "album": "Mr. Morale & The Big Steppers",
-  "songUrl": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
-  "updatedAt": "2026-06-17T05:20:49.238Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-17T07:08:36.087Z"
 }
