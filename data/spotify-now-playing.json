@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-21T18:11:49.523Z"
+  "isPlaying": true,
+  "title": "Noticed",
+  "artist": "Lil Mosey",
+  "album": "Northsbest (Extended)",
+  "songUrl": "https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02db953460d6de87c6d6788cb5",
+  "updatedAt": "2026-06-21T18:48:02.978Z"
 }
