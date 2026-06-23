@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Beach Boy",
-  "artist": "BENEE",
-  "album": "Lychee",
-  "songUrl": "https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023404bf31c77aeb8d5db7a817",
-  "updatedAt": "2026-06-23T00:20:18.775Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-23T01:19:00.998Z"
 }
