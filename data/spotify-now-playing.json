@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "9",
-  "artist": "Drake",
-  "album": "Views",
-  "songUrl": "https://open.spotify.com/track/1C7KSXR2GVxknex6I4ANco",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
-  "updatedAt": "2026-06-24T06:03:40.197Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-24T07:26:54.640Z"
 }
