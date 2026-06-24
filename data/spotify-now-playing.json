@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-24T01:11:17.486Z"
+  "isPlaying": true,
+  "title": "Sunny day",
+  "artist": "beabadoobee",
+  "album": "Beatopia",
+  "songUrl": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02384d10f967c2b914de7e2713",
+  "updatedAt": "2026-06-24T01:55:58.218Z"
 }
