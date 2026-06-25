@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "When I Was Your Man",
-  "artist": "Bruno Mars",
-  "album": "Unorthodox Jukebox",
-  "songUrl": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
-  "updatedAt": "2026-06-25T21:23:33.591Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-25T21:58:12.411Z"
 }
