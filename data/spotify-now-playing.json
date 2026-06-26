@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Breakeven",
-  "artist": "The Script",
-  "album": "The Script",
-  "songUrl": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f33a9f529c12f79b116eb218",
-  "updatedAt": "2026-06-26T03:21:39.391Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-26T04:52:20.948Z"
 }
