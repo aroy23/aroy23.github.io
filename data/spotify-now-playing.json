@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Chanel",
-  "artist": "Frank Ocean",
-  "album": "Chanel",
-  "songUrl": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a0b780c23fc3c19bd412b234",
-  "updatedAt": "2026-06-26T18:04:38.807Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-26T18:48:39.503Z"
 }
