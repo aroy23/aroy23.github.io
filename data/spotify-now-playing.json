@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Monëy so big",
-  "artist": "Yeat",
-  "album": "Up 2 Më",
-  "songUrl": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027f18c4658caa4a3d47f2d978",
-  "updatedAt": "2026-06-27T21:35:11.952Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-27T22:00:00.926Z"
 }
