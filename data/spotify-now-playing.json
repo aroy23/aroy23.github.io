@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-30T22:13:42.102Z"
+  "isPlaying": true,
+  "title": "Over My Dead Body",
+  "artist": "Drake",
+  "album": "Take Care (Deluxe)",
+  "songUrl": "https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02c7ea04a9b455e3f68ef82550",
+  "updatedAt": "2026-06-30T22:44:50.607Z"
 }
