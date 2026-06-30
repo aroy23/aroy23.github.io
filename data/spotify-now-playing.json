@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "DNA.",
-  "artist": "Kendrick Lamar",
-  "album": "DAMN.",
-  "songUrl": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
-  "updatedAt": "2026-06-30T16:57:25.107Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-06-30T17:39:28.193Z"
 }
