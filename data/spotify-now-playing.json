@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-06-29T23:38:26.915Z"
+  "isPlaying": true,
+  "title": "LA Leakers Freestyle",
+  "artist": "Central Cee",
+  "album": "LA Leakers Freestyle",
+  "songUrl": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ab2941a367fdd7103eedf43e",
+  "updatedAt": "2026-06-30T00:04:10.119Z"
 }
