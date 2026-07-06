@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-06T21:46:31.044Z"
+  "isPlaying": true,
+  "title": "Island In The Sun",
+  "artist": "Weezer",
+  "album": "Weezer",
+  "songUrl": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815",
+  "updatedAt": "2026-07-06T22:48:04.180Z"
 }
