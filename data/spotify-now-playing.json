@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Take Me Out",
-  "artist": "Franz Ferdinand",
-  "album": "Franz Ferdinand",
-  "songUrl": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a5d1c06a8172d4861367953c",
-  "updatedAt": "2026-07-06T18:12:49.214Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-06T20:13:26.364Z"
 }
