@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Chasing Cars",
-  "artist": "Snow Patrol",
-  "album": "Eyes Open",
-  "songUrl": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025da2756220da9b6f17924f8f",
-  "updatedAt": "2026-07-06T23:48:06.820Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-07T01:26:03.187Z"
 }
