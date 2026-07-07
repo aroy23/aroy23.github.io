@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-07T01:26:03.187Z"
+  "isPlaying": true,
+  "title": "Won't Go Home Without You",
+  "artist": "Maroon 5",
+  "album": "It Won't Be Soon Before Long.",
+  "songUrl": "https://open.spotify.com/track/0tuyEYTaqLxE41yGHSsXjy",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029741173cf2b32dab39424538",
+  "updatedAt": "2026-07-07T05:28:39.623Z"
 }
