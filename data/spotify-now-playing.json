@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-10T12:16:00.363Z"
+  "isPlaying": true,
+  "title": "Les",
+  "artist": "Childish Gambino",
+  "album": "Camp",
+  "songUrl": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026182cfe2e2a090d125c81dc0",
+  "updatedAt": "2026-07-10T15:02:37.980Z"
 }
