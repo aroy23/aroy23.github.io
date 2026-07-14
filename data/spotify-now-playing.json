@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-14T14:11:36.708Z"
+  "isPlaying": true,
+  "title": "Back To Me",
+  "artist": "The Marías",
+  "album": "Back To Me",
+  "songUrl": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a66ab2cbaebcc84ddd45a078",
+  "updatedAt": "2026-07-14T15:42:59.861Z"
 }
