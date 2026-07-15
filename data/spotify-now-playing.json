@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "D4U - Spotify Singles",
-  "artist": "Avenoir",
-  "album": "D4U - Spotify Singles",
-  "songUrl": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e85f63189acd20f40f39f8ce",
-  "updatedAt": "2026-07-15T22:33:36.692Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-15T23:32:59.289Z"
 }
