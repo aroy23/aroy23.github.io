@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-15T03:19:20.809Z"
+  "isPlaying": true,
+  "title": "Nevada",
+  "artist": "Vicetone, Cozi Zuehlsdorff",
+  "album": "Nevada",
+  "songUrl": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f48a2a4e66094853072c3b79",
+  "updatedAt": "2026-07-15T05:43:18.716Z"
 }
