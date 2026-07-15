@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-15T20:38:55.209Z"
+  "isPlaying": true,
+  "title": "Eventually",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "songUrl": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+  "updatedAt": "2026-07-15T21:35:08.948Z"
 }
