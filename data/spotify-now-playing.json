@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-17T14:16:45.352Z"
+  "isPlaying": true,
+  "title": "What A Life",
+  "artist": "John Summit, Guz, Stevie Appleton",
+  "album": "What A Life",
+  "songUrl": "https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028312b4de3123fa5275d8ac57",
+  "updatedAt": "2026-07-17T15:42:59.734Z"
 }
