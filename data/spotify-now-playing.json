@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "ASTROTHUNDER",
-  "artist": "Travis Scott",
-  "album": "ASTROWORLD",
-  "songUrl": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32",
-  "updatedAt": "2026-07-21T17:07:31.640Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-21T18:23:31.321Z"
 }
