@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-22T20:51:59.150Z"
+  "isPlaying": true,
+  "title": "Dangerous Woman",
+  "artist": "Ariana Grande",
+  "album": "Dangerous Woman",
+  "songUrl": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02628d506d5bddb09099db242c",
+  "updatedAt": "2026-07-22T21:53:54.528Z"
 }
