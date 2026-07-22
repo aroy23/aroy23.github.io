@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-22T15:55:22.042Z"
+  "isPlaying": true,
+  "title": "Over Now (with The Weeknd)",
+  "artist": "Calvin Harris, The Weeknd",
+  "album": "Over Now (with The Weeknd)",
+  "songUrl": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023caf73d2a59964bb0b966729",
+  "updatedAt": "2026-07-22T17:06:36.289Z"
 }
