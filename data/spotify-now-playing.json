@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-23T17:50:46.667Z"
+  "isPlaying": true,
+  "title": "The Hills",
+  "artist": "The Weeknd",
+  "album": "Beauty Behind The Madness",
+  "songUrl": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027fcead687e99583072cc217b",
+  "updatedAt": "2026-07-23T18:52:50.721Z"
 }
