@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-23T21:15:29.281Z"
+  "isPlaying": true,
+  "title": "DUCKWORTH.",
+  "artist": "Kendrick Lamar",
+  "album": "DAMN.",
+  "songUrl": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+  "updatedAt": "2026-07-23T22:15:04.716Z"
 }
