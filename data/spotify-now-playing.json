@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-24T20:01:48.247Z"
+  "isPlaying": true,
+  "title": "Scar Tissue",
+  "artist": "Red Hot Chili Peppers",
+  "album": "Californication (Deluxe Edition)",
+  "songUrl": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+  "updatedAt": "2026-07-24T21:12:24.019Z"
 }
