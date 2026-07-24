@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-24T03:38:05.742Z"
+  "isPlaying": true,
+  "title": "Starlight",
+  "artist": "Dave",
+  "album": "Starlight",
+  "songUrl": "https://open.spotify.com/track/3ixYkZI6rGk3ktisaIQrh0",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0214f73cfd0173fd89f937ad23",
+  "updatedAt": "2026-07-24T06:11:55.323Z"
 }
