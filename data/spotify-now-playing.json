@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-07-24T14:04:35.596Z"
+  "isPlaying": true,
+  "title": "Love Story",
+  "artist": "Indila",
+  "album": "Mini World",
+  "songUrl": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e024ae8ff731c49965bf2083405",
+  "updatedAt": "2026-07-24T15:37:47.301Z"
 }
