@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Dark Fantasy",
-  "artist": "Kanye West",
-  "album": "My Beautiful Dark Twisted Fantasy",
-  "songUrl": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f",
-  "updatedAt": "2026-07-25T17:11:50.837Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-25T18:05:58.977Z"
 }
