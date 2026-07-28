@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Fairchild",
-  "artist": "Dave, Nicole Blakk",
-  "album": "The Boy Who Played the Harp",
-  "songUrl": "https://open.spotify.com/track/4crUyIrhzkiaBIbM4LjUFX",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83",
-  "updatedAt": "2026-07-28T20:57:46.601Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-28T22:00:52.027Z"
 }
