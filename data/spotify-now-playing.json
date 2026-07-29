@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Sweet",
-  "artist": "Cigarettes After Sex",
-  "album": "Cigarettes After Sex",
-  "songUrl": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0212b69bf576f5e80291f75161",
-  "updatedAt": "2026-07-29T17:52:17.186Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-07-29T18:43:44.074Z"
 }
