@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "CYANIDE",
-  "artist": "Daniel Caesar",
-  "album": "CASE STUDY 01",
-  "songUrl": "https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
-  "updatedAt": "2026-08-03T22:43:54.123Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-03T23:47:50.793Z"
 }
