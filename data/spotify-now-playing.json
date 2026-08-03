@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-03T13:55:55.579Z"
+  "isPlaying": true,
+  "title": "PLAYA",
+  "artist": "A$AP Rocky",
+  "album": "Don't Be Dumb",
+  "songUrl": "https://open.spotify.com/track/67g2ytmlYoQwlVtaiA1fzO",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0227b7133c976e8ae6c3add683",
+  "updatedAt": "2026-08-03T16:14:23.468Z"
 }
