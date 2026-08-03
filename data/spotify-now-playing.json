@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Make No Sense",
-  "artist": "YoungBoy Never Broke Again",
-  "album": "AI YoungBoy 2",
-  "songUrl": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e024a92eb0e4fcbe2fb6e1208e5",
-  "updatedAt": "2026-08-03T18:05:02.166Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-03T19:50:26.972Z"
 }
