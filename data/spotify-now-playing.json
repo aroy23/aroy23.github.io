@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-05T01:03:09.297Z"
+  "isPlaying": true,
+  "title": "Papaoutai",
+  "artist": "Stromae",
+  "album": "Racine Carrée (Standard US Version)",
+  "songUrl": "https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e742841accccf949d7af1b75",
+  "updatedAt": "2026-08-05T04:18:26.517Z"
 }
