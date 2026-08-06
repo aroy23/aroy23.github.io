@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Poppin",
-  "artist": "Yeat",
-  "album": "2 Alivë",
-  "songUrl": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0272b69f1f356613717909d6db",
-  "updatedAt": "2026-08-06T00:50:45.805Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-06T03:54:59.545Z"
 }
