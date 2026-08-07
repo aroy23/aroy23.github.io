@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-07T14:27:16.646Z"
+  "isPlaying": true,
+  "title": "Find Your Love",
+  "artist": "Drake",
+  "album": "Thank Me Later",
+  "songUrl": "https://open.spotify.com/track/4BycRneKmOs6MhYG9THsuX",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0211b21e8b868800918d21bb77",
+  "updatedAt": "2026-08-07T15:22:35.871Z"
 }
