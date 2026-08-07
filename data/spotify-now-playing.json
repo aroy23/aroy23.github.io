@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-07T17:05:20.470Z"
+  "isPlaying": true,
+  "title": "So Fresh, So Clean",
+  "artist": "Outkast",
+  "album": "Stankonia",
+  "songUrl": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02153b3d6495031cb813a7451c",
+  "updatedAt": "2026-08-07T17:55:47.284Z"
 }
