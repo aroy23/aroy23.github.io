@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-07T20:17:26.849Z"
+  "isPlaying": true,
+  "title": "Pyramids",
+  "artist": "Frank Ocean",
+  "album": "channel ORANGE",
+  "songUrl": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+  "updatedAt": "2026-08-07T21:01:50.174Z"
 }
