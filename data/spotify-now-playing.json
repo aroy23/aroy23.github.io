@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Champagne Supernova",
-  "artist": "Oasis",
-  "album": "(What's The Story) Morning Glory?",
-  "songUrl": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022f2eeee9b405f4d00428d84c",
-  "updatedAt": "2026-08-08T20:03:42.268Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-08T20:40:17.022Z"
 }
