@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-09T07:39:55.805Z"
+  "isPlaying": true,
+  "title": "Dark Red",
+  "artist": "Steve Lacy",
+  "album": "Dark Red",
+  "songUrl": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023d2dfa42f771cd458b194979",
+  "updatedAt": "2026-08-09T08:20:56.501Z"
 }
