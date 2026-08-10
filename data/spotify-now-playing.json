@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-10T04:10:59.201Z"
+  "isPlaying": true,
+  "title": "The Morning",
+  "artist": "The Weeknd",
+  "album": "House Of Balloons (Original)",
+  "songUrl": "https://open.spotify.com/track/4jBfUB4kQJCWOrjGLQqhO0",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02274b406a7e18acebcf743079",
+  "updatedAt": "2026-08-10T05:42:10.896Z"
 }
