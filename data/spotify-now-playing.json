@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-10T17:24:31.404Z"
+  "isPlaying": true,
+  "title": "Fix You",
+  "artist": "Coldplay",
+  "album": "X&Y",
+  "songUrl": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651",
+  "updatedAt": "2026-08-10T18:09:13.890Z"
 }
