@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Pluto’s Last Comet",
-  "artist": "Tory Lanez",
-  "album": "Alone At Prom",
-  "songUrl": "https://open.spotify.com/track/2gHQ7upBrDEFOZZTO6ktbZ",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
-  "updatedAt": "2026-08-10T00:02:20.586Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-10T02:25:45.387Z"
 }
