@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-10T15:39:56.953Z"
+  "isPlaying": true,
+  "title": "Friends",
+  "artist": "Vacations",
+  "album": "Vibes",
+  "songUrl": "https://open.spotify.com/track/0jYfN0oxUjdYmAifDBORz9",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023fe10c957fc57e5dd7c1db24",
+  "updatedAt": "2026-08-10T16:28:42.459Z"
 }
