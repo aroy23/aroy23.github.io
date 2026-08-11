@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "The Birds Pt. 1",
-  "artist": "The Weeknd",
-  "album": "Trilogy",
-  "songUrl": "https://open.spotify.com/track/6ojrylBvc8SkXGjr02FjRX",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02158c84a1b6f8b935dc7fa9a9",
-  "updatedAt": "2026-08-11T16:41:16.142Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-11T17:38:30.894Z"
 }
