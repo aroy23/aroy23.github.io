@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "catch a kill",
-  "artist": "Destroy Lonely",
-  "album": "If Looks Could Kill (Directors Cut)",
-  "songUrl": "https://open.spotify.com/track/3B0pDi9aLzcICJfBCA3Lgq",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e9bf36ca66a4b8cfd5c50a9d",
-  "updatedAt": "2026-08-11T22:40:52.438Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-11T23:21:55.088Z"
 }
