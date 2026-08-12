@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-12T15:33:47.329Z"
+  "isPlaying": true,
+  "title": "Come Back...Be Here (Taylor's Version)",
+  "artist": "Taylor Swift",
+  "album": "Red (Taylor's Version)",
+  "songUrl": "https://open.spotify.com/track/4pNApnaUWAL2J4KO2eqokq",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
+  "updatedAt": "2026-08-12T16:28:44.981Z"
 }
