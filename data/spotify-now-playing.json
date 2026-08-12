@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-12T00:03:18.211Z"
+  "isPlaying": true,
+  "title": "Bad Boy (with Young Thug)",
+  "artist": "Juice WRLD, Young Thug",
+  "album": "Bad Boy (with Young Thug)",
+  "songUrl": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020bda1f6aa92d42f44d621db6",
+  "updatedAt": "2026-08-12T02:34:52.958Z"
 }
