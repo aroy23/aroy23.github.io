@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Faith",
-  "artist": "The Weeknd",
-  "album": "After Hours",
-  "songUrl": "https://open.spotify.com/track/3orEOtd8CPL8GFlpRpKuoE",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
-  "updatedAt": "2026-08-12T17:27:57.315Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-12T18:24:48.505Z"
 }
