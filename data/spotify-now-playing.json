@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-13T19:32:10.858Z"
+  "isPlaying": true,
+  "title": "Nonstop",
+  "artist": "Drake",
+  "album": "Scorpion",
+  "songUrl": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+  "updatedAt": "2026-08-13T20:05:29.324Z"
 }
