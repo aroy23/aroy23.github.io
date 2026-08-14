@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-14T14:28:30.803Z"
+  "isPlaying": true,
+  "title": "Cinema (feat. Gary Go) - Skrillex Remix",
+  "artist": "Benny Benassi, Gary Go, Skrillex",
+  "album": "Electroman",
+  "songUrl": "https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026cfb4fae18c381d2706b14d1",
+  "updatedAt": "2026-08-14T15:21:29.687Z"
 }
