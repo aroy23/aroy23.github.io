@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-15T05:57:41.149Z"
+  "isPlaying": true,
+  "title": "Lemon Glow",
+  "artist": "Beach House",
+  "album": "7",
+  "songUrl": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020af2276ae66a42e73eb07683",
+  "updatedAt": "2026-08-15T06:31:00.139Z"
 }
