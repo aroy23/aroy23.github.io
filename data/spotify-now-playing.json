@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "No More Lies",
-  "artist": "Thundercat, Tame Impala",
-  "album": "Distracted",
-  "songUrl": "https://open.spotify.com/track/3dHyoDGPLY6NAxg3QjSObI",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025d6505356d39c9ec421d489b",
-  "updatedAt": "2026-08-15T14:54:35.318Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-15T15:08:41.796Z"
 }
