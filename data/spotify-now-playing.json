@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Patience",
-  "artist": "Tame Impala",
-  "album": "Patience",
-  "songUrl": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023daf1e477cbdcb84220b006a",
-  "updatedAt": "2026-08-15T11:44:31.601Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-15T11:56:37.151Z"
 }
