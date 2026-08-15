@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-15T21:12:14.447Z"
+  "isPlaying": true,
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "album": "THE BOOK",
+  "songUrl": "https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0239917845c74c9e64320fbed9",
+  "updatedAt": "2026-08-15T21:33:29.625Z"
 }
