@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-16T17:59:36.230Z"
+  "isPlaying": true,
+  "title": "Black Out Days",
+  "artist": "Phantogram",
+  "album": "Voices",
+  "songUrl": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022b9ba6e48a59fedf157ce0f0",
+  "updatedAt": "2026-08-16T18:30:27.211Z"
 }
