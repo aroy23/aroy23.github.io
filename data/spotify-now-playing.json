@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Space Boy",
-  "artist": "Manny Laurenko, LUCKI",
-  "album": "Storm Coming",
-  "songUrl": "https://open.spotify.com/track/6R7cNOzIOsr44mcoHa2etH",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02f85ca1e23641636bbcdac5a0",
-  "updatedAt": "2026-08-17T17:19:38.900Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-17T17:48:17.092Z"
 }
