@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-17T21:17:46.005Z"
+  "isPlaying": true,
+  "title": "Yes I'm Changing",
+  "artist": "Tame Impala",
+  "album": "Currents",
+  "songUrl": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+  "updatedAt": "2026-08-17T21:43:22.915Z"
 }
