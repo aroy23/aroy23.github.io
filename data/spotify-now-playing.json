@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-18T21:35:25.823Z"
+  "isPlaying": true,
+  "title": "When I'm Small",
+  "artist": "Phantogram",
+  "album": "Eyelid Movies",
+  "songUrl": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025f192d3bcd5fed10b0884af9",
+  "updatedAt": "2026-08-18T21:52:04.074Z"
 }
