@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Stevie Doesn't Wonder",
-  "artist": "Hotel Ugly",
-  "album": "Stevie Doesn't Wonder",
-  "songUrl": "https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02d35174d28aadcef2843c7d07",
-  "updatedAt": "2026-08-18T05:22:51.909Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-18T05:49:52.435Z"
 }
