@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "The Only Exception",
-  "artist": "Paramore",
-  "album": "Brand New Eyes",
-  "songUrl": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02e01d7d558032457b0e4883f6",
-  "updatedAt": "2026-08-18T22:03:07.418Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-18T22:32:57.681Z"
 }
