@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-18T20:34:45.679Z"
+  "isPlaying": true,
+  "title": "30 Hours",
+  "artist": "Kanye West",
+  "album": "The Life Of Pablo",
+  "songUrl": "https://open.spotify.com/track/2CHmgtK8OCL28WtIK96u4N",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+  "updatedAt": "2026-08-18T20:53:41.120Z"
 }
