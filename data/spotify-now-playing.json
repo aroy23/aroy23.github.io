@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Hey Mama",
-  "artist": "Kanye West",
-  "album": "Late Registration",
-  "songUrl": "https://open.spotify.com/track/46OFHBw45fNi7QNjSetITR",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
-  "updatedAt": "2026-08-18T17:58:44.421Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-18T18:36:06.467Z"
 }
