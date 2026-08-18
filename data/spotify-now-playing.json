@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "3005",
-  "artist": "Childish Gambino",
-  "album": "Because the Internet",
-  "songUrl": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0221b2b485aef32bcc96c1875c",
-  "updatedAt": "2026-08-18T15:50:17.388Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-18T16:12:59.052Z"
 }
