@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "American Idiot",
-  "artist": "Green Day",
-  "album": "American Idiot",
-  "songUrl": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0208a1b1e0674086d3f1995e1b",
-  "updatedAt": "2026-08-19T20:46:26.775Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-19T21:07:12.116Z"
 }
