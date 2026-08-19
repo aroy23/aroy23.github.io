@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-19T16:14:10.271Z"
+  "isPlaying": true,
+  "title": "Aria Math",
+  "artist": "C418",
+  "album": "Minecraft - Volume Beta",
+  "songUrl": "https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e024cf0b29eb06a92aa96acae64",
+  "updatedAt": "2026-08-19T16:46:25.582Z"
 }
