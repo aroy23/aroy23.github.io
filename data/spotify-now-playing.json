@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-19T23:55:43.658Z"
+  "isPlaying": true,
+  "title": "Hot Rod",
+  "artist": "Dayglow",
+  "album": "Fuzzybrain",
+  "songUrl": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e025160eaecb31b739ea1c2eaa5",
+  "updatedAt": "2026-08-20T00:41:28.768Z"
 }
