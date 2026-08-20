@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-20T14:50:19.450Z"
+  "isPlaying": true,
+  "title": "Conversations",
+  "artist": "Juice WRLD",
+  "album": "Legends Never Die",
+  "songUrl": "https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+  "updatedAt": "2026-08-20T15:18:37.186Z"
 }
