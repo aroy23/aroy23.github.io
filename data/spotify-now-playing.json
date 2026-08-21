@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Sessions",
-  "artist": "Sharkey, Lucki",
-  "album": "Sessions",
-  "songUrl": "https://open.spotify.com/track/2GtzWw3lNpIgog4TNoxBny",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ec326295a9404dc40ec0004a",
-  "updatedAt": "2026-08-21T16:13:03.341Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-21T16:50:05.735Z"
 }
