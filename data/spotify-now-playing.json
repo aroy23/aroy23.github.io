@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-21T20:55:03.248Z"
+  "isPlaying": true,
+  "title": "Pop",
+  "artist": "OsamaSon",
+  "album": "Flex Musix",
+  "songUrl": "https://open.spotify.com/track/26Fx8UbsC0BV4J1CdtuLAy",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02c1ce808155be3a39c3b1e4cd",
+  "updatedAt": "2026-08-21T21:12:49.750Z"
 }
