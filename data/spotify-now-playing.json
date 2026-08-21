@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Root of All",
-  "artist": "LUCKI",
-  "album": "DAYS B4 II EP",
-  "songUrl": "https://open.spotify.com/track/13hKgjokFSb4ge6OKkwDYz",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02ec361a20e3572dd8ee4640ae",
-  "updatedAt": "2026-08-21T22:40:46.007Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-21T22:58:26.402Z"
 }
