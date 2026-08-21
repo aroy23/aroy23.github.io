@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-21T14:43:54.373Z"
+  "isPlaying": true,
+  "title": "ホロネス",
+  "artist": "美波",
+  "album": "カワキヲアメク",
+  "songUrl": "https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e022281f3aa39da2848f25175dd",
+  "updatedAt": "2026-08-21T15:13:41.368Z"
 }
