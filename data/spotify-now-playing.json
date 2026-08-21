@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-21T18:02:57.422Z"
+  "isPlaying": true,
+  "title": "The Last Jewel",
+  "artist": "Xavier Wulf",
+  "album": "Rare Wulf",
+  "songUrl": "https://open.spotify.com/track/1fShQbbWjFR8z1GBQcXGic",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02be635bbbad5f795e4a887098",
+  "updatedAt": "2026-08-21T18:48:52.324Z"
 }
