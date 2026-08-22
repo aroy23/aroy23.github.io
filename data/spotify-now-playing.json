@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-22T03:53:26.128Z"
+  "isPlaying": true,
+  "title": "Marvin Gaye (feat. Meghan Trainor)",
+  "artist": "Charlie Puth, Meghan Trainor",
+  "album": "Nine Track Mind (Special Edition)",
+  "songUrl": "https://open.spotify.com/track/6TjWrm6BZytIjHnZcX2TGk",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0215145482a542a9adb282250b",
+  "updatedAt": "2026-08-22T04:18:24.176Z"
 }
