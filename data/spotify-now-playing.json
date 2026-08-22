@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Cool With You",
-  "artist": "NewJeans",
-  "album": "NewJeans 2nd EP 'Get Up'",
-  "songUrl": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e020744690248ef3ba7b776ea7b",
-  "updatedAt": "2026-08-22T06:41:54.501Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-22T07:17:44.962Z"
 }
