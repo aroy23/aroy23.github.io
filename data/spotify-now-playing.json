@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-24T21:12:38.964Z"
+  "isPlaying": true,
+  "title": "Cigarette Daydreams",
+  "artist": "Cage The Elephant",
+  "album": "Melophobia",
+  "songUrl": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02fb1cb900d28642e668d77b12",
+  "updatedAt": "2026-08-24T21:42:45.817Z"
 }
