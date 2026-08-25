@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Sparks",
-  "artist": "Coldplay",
-  "album": "Parachutes",
-  "songUrl": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
-  "updatedAt": "2026-08-25T04:50:11.994Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-25T05:18:50.344Z"
 }
