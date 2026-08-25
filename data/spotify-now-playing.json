@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-25T02:44:16.968Z"
+  "isPlaying": true,
+  "title": ".",
+  "artist": "girl in red",
+  "album": "if i could make it go quiet",
+  "songUrl": "https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0248de97658631644cc60f3c8d",
+  "updatedAt": "2026-08-25T03:31:21.132Z"
 }
