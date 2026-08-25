@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Money Longer",
-  "artist": "Lil Uzi Vert",
-  "album": "Lil Uzi Vert vs. The World",
-  "songUrl": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02fc3a56b8b1c442030716c98b",
-  "updatedAt": "2026-08-25T17:41:23.671Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-25T18:01:57.106Z"
 }
