@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-26T00:02:27.459Z"
+  "isPlaying": true,
+  "title": "Treat You Better",
+  "artist": "Shawn Mendes",
+  "album": "Illuminate",
+  "songUrl": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e021376b4b16f4bfcba02dc571b",
+  "updatedAt": "2026-08-26T01:50:05.954Z"
 }
