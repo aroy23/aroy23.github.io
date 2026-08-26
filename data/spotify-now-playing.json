@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Virginia Beach",
-  "artist": "Drake",
-  "album": "For All The Dogs",
-  "songUrl": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
-  "updatedAt": "2026-08-26T16:58:25.281Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-08-26T18:58:37.127Z"
 }
