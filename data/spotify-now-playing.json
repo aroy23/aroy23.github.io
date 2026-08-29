@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-29T17:13:48.974Z"
+  "isPlaying": true,
+  "title": "You’re here that’s the thing",
+  "artist": "beabadoobee",
+  "album": "Beatopia",
+  "songUrl": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02384d10f967c2b914de7e2713",
+  "updatedAt": "2026-08-29T19:44:16.889Z"
 }
