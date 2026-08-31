@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-08-31T19:15:18.566Z"
+  "isPlaying": true,
+  "title": "Softly",
+  "artist": "Clairo",
+  "album": "Immunity",
+  "songUrl": "https://open.spotify.com/track/3T5UHXDib3oiEArakaVQtM",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e023e4fc846c2b52b9cb6ff2e1f",
+  "updatedAt": "2026-08-31T23:12:54.008Z"
 }
