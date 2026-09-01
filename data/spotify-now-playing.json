@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "WILDFLOWER",
-  "artist": "Billie Eilish",
-  "album": "HIT ME HARD AND SOFT",
-  "songUrl": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-  "updatedAt": "2026-09-01T16:36:38.911Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-09-01T19:29:51.308Z"
 }
