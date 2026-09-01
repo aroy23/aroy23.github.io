@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "F Song",
-  "artist": "Strawberry Guy",
-  "album": "F Song",
-  "songUrl": "https://open.spotify.com/track/4z9KVNX4hmk672SJfhtQNz",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e026cfe31d4e5d58710add69045",
-  "updatedAt": "2026-09-01T21:54:57.342Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-09-01T23:39:04.502Z"
 }
