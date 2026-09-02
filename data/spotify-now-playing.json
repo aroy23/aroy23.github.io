@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Latch",
-  "artist": "Disclosure, Sam Smith",
-  "album": "Settle (Special Edition)",
-  "songUrl": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
-  "updatedAt": "2026-09-02T20:48:30.549Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-09-02T22:51:38.230Z"
 }
