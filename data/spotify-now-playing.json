@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-04T14:54:02.933Z"
+  "isPlaying": true,
+  "title": "Race My Mind",
+  "artist": "Drake",
+  "album": "Certified Lover Boy",
+  "songUrl": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+  "updatedAt": "2026-09-04T17:51:05.887Z"
 }
