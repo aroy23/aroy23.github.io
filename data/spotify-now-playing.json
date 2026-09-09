@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-09T00:30:09.946Z"
+  "isPlaying": true,
+  "title": "Massive",
+  "artist": "Drake",
+  "album": "Honestly, Nevermind",
+  "songUrl": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e028dc0d801766a5aa6a33cbe37",
+  "updatedAt": "2026-09-09T05:01:51.820Z"
 }
