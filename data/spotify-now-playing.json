@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-10T11:44:24.319Z"
+  "isPlaying": true,
+  "title": "NORTH POLE",
+  "artist": "Boohavinn",
+  "album": "ROTY",
+  "songUrl": "https://open.spotify.com/track/68AjTiqnRPRADwvXAwzDpp",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02a470b4eb443f45298565283e",
+  "updatedAt": "2026-09-10T15:11:22.933Z"
 }
