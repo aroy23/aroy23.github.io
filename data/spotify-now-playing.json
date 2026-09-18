@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-18T20:58:04.648Z"
+  "isPlaying": true,
+  "title": "Pretty Girl",
+  "artist": "Clairo",
+  "album": "Pretty Girl",
+  "songUrl": "https://open.spotify.com/track/3ey2Lbv2YOjgUYKTAIopNS",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02378a655e1c7ca93207ace890",
+  "updatedAt": "2026-09-18T23:00:26.298Z"
 }
