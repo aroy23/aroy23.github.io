@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-21T13:12:26.535Z"
+  "isPlaying": true,
+  "title": "Best I Ever Had",
+  "artist": "Drake",
+  "album": "So Far Gone",
+  "songUrl": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0254ef13c30a024a7f1ba79efd",
+  "updatedAt": "2026-09-21T18:40:50.624Z"
 }
