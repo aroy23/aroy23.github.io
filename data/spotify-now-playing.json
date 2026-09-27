@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-27T19:18:25.277Z"
+  "isPlaying": true,
+  "title": "Tropic Love",
+  "artist": "Diviners, Contacreast",
+  "album": "Tropic Love",
+  "songUrl": "https://open.spotify.com/track/5vu4QYfidEC5Z5739Y0xD3",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e027ab689acac945a01d8418ded",
+  "updatedAt": "2026-09-27T22:17:18.690Z"
 }
