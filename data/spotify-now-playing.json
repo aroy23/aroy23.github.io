@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Blue Flame",
-  "artist": "LE SSERAFIM",
-  "album": "FEARLESS",
-  "songUrl": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e029ae8d973353277c7dec2c27d",
-  "updatedAt": "2026-09-28T00:50:07.303Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-09-28T05:57:22.349Z"
 }
