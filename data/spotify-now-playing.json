@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-09-29T16:38:24.420Z"
+  "isPlaying": true,
+  "title": "Self Care",
+  "artist": "Mac Miller",
+  "album": "Swimming",
+  "songUrl": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+  "updatedAt": "2026-09-29T21:00:31.019Z"
 }
