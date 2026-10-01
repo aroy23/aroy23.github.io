@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Maps",
-  "artist": "Maroon 5",
-  "album": "V",
-  "songUrl": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02442b53773d50e1b5369bb16c",
-  "updatedAt": "2026-10-01T18:58:44.753Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-10-01T23:00:03.890Z"
 }
