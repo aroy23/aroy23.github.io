@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-10-02T08:22:47.421Z"
+  "isPlaying": true,
+  "title": "Whisper My Name",
+  "artist": "Drake",
+  "album": "ICEMAN",
+  "songUrl": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
+  "updatedAt": "2026-10-02T14:48:06.174Z"
 }
