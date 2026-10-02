@@ -1,9 +1,9 @@
 {
-  "isPlaying": true,
-  "title": "Secrets",
-  "artist": "Tiësto, KSHMR, VASSY",
-  "album": "Club Life, Vol. 4 - New York City",
-  "songUrl": "https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF",
-  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e02de5f51296e162e8ec5d56899",
-  "updatedAt": "2026-10-02T19:33:22.201Z"
+  "isPlaying": false,
+  "title": "",
+  "artist": "",
+  "album": "",
+  "songUrl": "",
+  "albumImageUrl": "",
+  "updatedAt": "2026-10-02T23:11:26.464Z"
 }
