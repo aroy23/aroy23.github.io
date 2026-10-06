@@ -1,9 +1,9 @@
 {
-  "isPlaying": false,
-  "title": "",
-  "artist": "",
-  "album": "",
-  "songUrl": "",
-  "albumImageUrl": "",
-  "updatedAt": "2026-10-06T15:45:24.602Z"
+  "isPlaying": true,
+  "title": "Bleed (feat. Omar Apollo)",
+  "artist": "Malcolm Todd, Omar Apollo",
+  "album": "Malcolm Todd",
+  "songUrl": "https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu",
+  "albumImageUrl": "https://i.scdn.co/image/ab67616d00001e0287607b2c8f5f52f1f057be0d",
+  "updatedAt": "2026-10-06T20:34:11.063Z"
 }
